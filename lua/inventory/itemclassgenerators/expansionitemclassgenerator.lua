@@ -1,0 +1,1 @@
+local self = CInventory.ItemClasses:CreateGenerator ("Inventory Expansion")function self:CreateItemClass (name, parameters)	return CInventory.ExpansionItemClass (name, parameters)end

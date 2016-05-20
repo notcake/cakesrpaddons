@@ -1,0 +1,213 @@
+"Out"
+{
+	"1"
+	{
+		"Stackable"		"true"
+		"name"		"Microwave"
+		"Model"		"*"
+		"EntityClass"		"microwave"
+		"Generator"		"Generic"
+		"weight"		"10"
+		"Skin"		"*"
+	}
+	"2"
+	{
+		"Stackable"		"true"
+		"name"		"Sniper Rifle"
+		"Model"		"*"
+		"EntityClass"		"ls_sniper"
+		"Generator"		"Weapon"
+		"weight"		"3"
+		"Skin"		"*"
+	}
+	"3"
+	{
+		"Stackable"		"true"
+		"name"		"Halon Canister"
+		"Model"		"*"
+		"EntityClass"		"rp_halon_canister"
+		"Generator"		"Generic"
+		"weight"		"10"
+		"Skin"		"*"
+	}
+	"4"
+	{
+		"Stackable"		"true"
+		"name"		"Five Seven"
+		"Model"		"*"
+		"EntityClass"		"weapon_fiveseven2"
+		"Generator"		"Weapon"
+		"weight"		"3"
+		"Skin"		"*"
+	}
+	"5"
+	{
+		"Stackable"		"true"
+		"name"		"Pump Shotgun"
+		"Model"		"*"
+		"EntityClass"		"weapon_pumpshotgun2"
+		"Generator"		"Weapon"
+		"weight"		"3"
+		"Skin"		"*"
+	}
+	"6"
+	{
+		"Stackable"		"true"
+		"name"		"Cracker"
+		"Model"		"*"
+		"EntityClass"		"rp_keypad_cracker"
+		"Generator"		"Weapon"
+		"weight"		"3"
+		"Skin"		"*"
+	}
+	"7"
+	{
+		"Stackable"		"true"
+		"name"		"M4"
+		"Model"		"*"
+		"EntityClass"		"weapon_m42"
+		"Generator"		"Weapon"
+		"weight"		"3"
+		"Skin"		"*"
+	}
+	"8"
+	{
+		"Stackable"		"true"
+		"name"		"Gun Lab"
+		"Model"		"*"
+		"EntityClass"		"gunlab"
+		"Generator"		"Generic"
+		"weight"		"10"
+		"Skin"		"*"
+	}
+	"9"
+	{
+		"Stackable"		"true"
+		"name"		"Deagle"
+		"Model"		"*"
+		"EntityClass"		"weapon_deagle2"
+		"Generator"		"Weapon"
+		"weight"		"3"
+		"Skin"		"*"
+	}
+	"10"
+	{
+		"Stackable"		"true"
+		"name"		"Food"
+		"Model"		"*"
+		"EntityClass"		"food"
+		"Generator"		"Generic"
+		"weight"		"1"
+		"Skin"		"*"
+	}
+	"11"
+	{
+		"Stackable"		"true"
+		"name"		"Drugs"
+		"Model"		"*"
+		"EntityClass"		"drug"
+		"Generator"		"Generic"
+		"weight"		"2"
+		"Skin"		"*"
+	}
+	"12"
+	{
+		"Stackable"		"true"
+		"name"		"Medic Kit"
+		"Model"		"*"
+		"EntityClass"		"med_kit"
+		"Generator"		"Weapon"
+		"weight"		"3"
+		"Skin"		"*"
+	}
+	"13"
+	{
+		"Stackable"		"true"
+		"name"		"MP5"
+		"Model"		"*"
+		"EntityClass"		"weapon_mp52"
+		"Generator"		"Weapon"
+		"weight"		"3"
+		"Skin"		"*"
+	}
+	"14"
+	{
+		"Stackable"		"true"
+		"name"		"MAC-10"
+		"Model"		"*"
+		"EntityClass"		"weapon_mac102"
+		"Generator"		"Weapon"
+		"weight"		"3"
+		"Skin"		"*"
+	}
+	"16"
+	{
+		"Stackable"		"true"
+		"name"		"Glock"
+		"Model"		"*"
+		"EntityClass"		"weapon_glock2"
+		"Generator"		"Weapon"
+		"weight"		"6"
+		"Skin"		"*"
+	}
+	"17"
+	{
+		"Stackable"		"true"
+		"name"		"P228"
+		"Model"		"*"
+		"EntityClass"		"weapon_p2282"
+		"Generator"		"Weapon"
+		"weight"		"3"
+		"Skin"		"*"
+	}
+	"18"
+	{
+		"Stackable"		"true"
+		"name"		"Small Inventory Expansion"
+		"Model"		"models/items/item_item_crate.mdl"
+		"EntityClass"		"^"
+		"Generator"		"Inventory Expansion"
+		"weight"		"15"
+		"Skin"		"*"
+	}
+	"19"
+	{
+		"Stackable"		"true"
+		"name"		"AK-47"
+		"Model"		"*"
+		"EntityClass"		"weapon_ak472"
+		"Generator"		"Weapon"
+		"weight"		"3"
+		"Skin"		"*"
+	}
+	"20"
+	{
+		"Stackable"		"true"
+		"name"		"Lockpick"
+		"Model"		"*"
+		"EntityClass"		"lockpick"
+		"Generator"		"Weapon"
+		"weight"		"3"
+		"Skin"		"*"
+	}
+	"21"
+	{
+		"Stackable"		"true"
+		"name"		"Drug Lab"
+		"Model"		"*"
+		"EntityClass"		"drug_lab"
+		"Generator"		"Generic"
+		"weight"		"10"
+		"Skin"		"*"
+	}
+	"22"
+	{
+		"Stackable"		"true"
+		"name"		"Large Inventory Expansion"
+		"Model"		"models/items/item_item_crate.mdl"
+		"EntityClass"		"^"
+		"Generator"		"Inventory Expansion"
+		"weight"		"70"
+		"Skin"		"*"
+	}
+}

@@ -1,0 +1,4 @@
+"Out"
+{
+	"DefaultMaximumWeight"		"100"
+}

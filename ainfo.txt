@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+	"name"				"!cake's Scripts"
+	"author_name"			"!cake"
+	"author_email"			"cakenotfound@googlemail.com"
+	"info"				"Lua scripts for an RP server."
+	"override"			"0"
+}

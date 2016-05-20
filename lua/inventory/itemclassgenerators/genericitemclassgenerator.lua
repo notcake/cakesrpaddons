@@ -1,0 +1,1 @@
+local self = CInventory.ItemClasses:CreateGenerator ("Generic")function self:CreateItemClass (name, parameters)	return CInventory.GenericItemClass (name, parameters)end

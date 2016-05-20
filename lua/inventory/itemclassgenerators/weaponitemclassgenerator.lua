@@ -1,0 +1,1 @@
+local self = CInventory.ItemClasses:CreateGenerator ("Weapon")function self:CreateItemClass (name, parameters)	return CInventory.WeaponItemClass (name, parameters)end
